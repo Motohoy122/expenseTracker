@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Motohoy122/expenseTracker/static/css/main.93cf9a48.chunk.css",
+    "main.js": "/Motohoy122/expenseTracker/static/js/main.a36aff6c.chunk.js",
+    "main.js.map": "/Motohoy122/expenseTracker/static/js/main.a36aff6c.chunk.js.map",
+    "runtime-main.js": "/Motohoy122/expenseTracker/static/js/runtime-main.df52b574.js",
+    "runtime-main.js.map": "/Motohoy122/expenseTracker/static/js/runtime-main.df52b574.js.map",
+    "static/js/2.35c5b5b1.chunk.js": "/Motohoy122/expenseTracker/static/js/2.35c5b5b1.chunk.js",
+    "static/js/2.35c5b5b1.chunk.js.map": "/Motohoy122/expenseTracker/static/js/2.35c5b5b1.chunk.js.map",
+    "index.html": "/Motohoy122/expenseTracker/index.html",
+    "static/css/main.93cf9a48.chunk.css.map": "/Motohoy122/expenseTracker/static/css/main.93cf9a48.chunk.css.map",
+    "static/js/2.35c5b5b1.chunk.js.LICENSE.txt": "/Motohoy122/expenseTracker/static/js/2.35c5b5b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df52b574.js",
+    "static/js/2.35c5b5b1.chunk.js",
+    "static/css/main.93cf9a48.chunk.css",
+    "static/js/main.a36aff6c.chunk.js"
+  ]
+}
